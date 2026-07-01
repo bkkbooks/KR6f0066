@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0066/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 無量壽經義疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1746.xml
+    old_id: T37n1746
+hash: sha256:859d7a8cdcb13f6e3a781b7f977394535cb46edfaef1eacd3b41a3b89dfb70bf
