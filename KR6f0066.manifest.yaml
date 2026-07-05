@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0066_000.yaml, hash: 'sha256:859d7a8cdcb13f6e3a781b7f977394535cb46edfaef1eacd3b41a3b89dfb70bf'}
-  - {seq: 1, filename: KR6f0066_001.yaml, hash: 'sha256:def6f5d53ae3b3dc76d26e924b4fbe26b8f03d0be4dc7b5a8aa5188610b7aa09'}
+  - {seq: 1, filename: KR6f0066_001.yaml, hash: 'sha256:57186e8e4615cab16c6efdaf4e931b5c39128aac2a7f2c73a19a48af3abf5ed6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6f0066_001.markers.yaml, hash: 'sha256:de599e29d543a91b62d1ceb0a9a3a20e4fc1c7e17ee49d4d2d55c386c9a2a098'}
+  - {seq: 0, role: markers, filename: assets/KR6f0066_000.markers.yaml, hash: 'sha256:69d04a0c1d0247fcba4e3f77a326ba6c539ab8f46dd0e4b50a6336f2299ffe0e'}
+  - {seq: 1, role: markers, filename: assets/KR6f0066_001.markers.yaml, hash: 'sha256:8bbc92e317ac3bc59a7475143ea972bea936801dc6f22feb488c20c5a02b73cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 無量壽經義疏
   type: juan
   level: 1
-hash: sha256:3cb88e88001f77fdc3c3408577fc22c1c71cf5049d6d3b1e99c82f593d2f423d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9a12ccc4925cfb473d9a45d237a85e76362236ad84207196a6dab45d4f080d40
